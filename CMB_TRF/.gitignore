@@ -12,3 +12,4 @@ core.*
 *.tgz
 *.tar
 *.pyc
+__pycache__
